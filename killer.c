@@ -9,7 +9,6 @@
 #include <dirent.h> 
 
 char STRINGS[4][65535] = { "loldongs", "fbot", "satori", "fuck" };
-char COMMON_PATHS[2][65535] = { "/var/tmp", "/tmp" };
 
 int main() {
 
