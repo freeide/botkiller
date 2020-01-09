@@ -1,2 +1,2 @@
 # advanced-botkiller
-Kills Linux malware
+Kills Linux malware using some common techniques.
